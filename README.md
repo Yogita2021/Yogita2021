@@ -45,15 +45,15 @@
   <a title="maneyogita2021@gmail.com" href="mailto:maneyogita2021@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="*" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
 </p>
-<!-- <h2>📊  Github Stats</h2>
-<br/> -->
+<h2>📊  Github Stats</h2>
+<br/>
 
 <!-- <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Yogita2021&show_icons=true&theme=midnight-purple" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogita2021&layout=compact&theme=midnight-purple" />
 </div> -->
- <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Yogita2021&theme=rogue" alt="activitygraph" /> </p>
+ <!-- <br />
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Yogita2021&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogita2021&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yogita2021&no-frame=true" alt=""/></p>
