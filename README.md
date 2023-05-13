@@ -4,10 +4,10 @@
  <br>
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
- <img  src="https://akashsurve2377.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
+ <img  src="https://Yogita2021.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
   <br>
    ## 👨🏻‍💻 About Me:
-<img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
+<img  src="https://yogitamane.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](*)**
 
@@ -48,12 +48,12 @@
 <h2>📊  Github Stats</h2>
 <br/>
 
-<!-- <div>
+<div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Yogita2021&show_icons=true&theme=midnight-purple" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogita2021&layout=compact&theme=midnight-purple" />
-</div> -->
- <!-- <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Yogita2021&theme=rogue" alt="activitygraph" /> </p> -->
+</div>
+ <br />
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Yogita2021&theme=rogue" alt="activitygraph" /> </p>
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogita2021&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yogita2021&no-frame=true" alt=""/></p>
