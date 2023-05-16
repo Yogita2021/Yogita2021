@@ -9,7 +9,7 @@
    ## 👨🏻‍💻 About Me:
 <img  src="https://yogitamane.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](*)**
+- 🙋‍♂️ All about me is at **[My Website](https://splendorous-tartufo-0b8540.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maneyogita/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="maneyogita2021@gmail.com" href="mailto:maneyogita2021@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="*" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
+  <a href="https://splendorous-tartufo-0b8540.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
 </p>
 <h2>📊  Github Stats</h2>
 <br/>
