@@ -9,7 +9,7 @@
    ## 👨🏻‍💻 About Me:
 <img  src="https://yogitamane.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://Yogita2021.github.io)**
+- 🙋‍♂️ All about me is at **[Portfolio](https://Yogita2021.github.io)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
