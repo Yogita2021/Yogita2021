@@ -7,7 +7,6 @@
  <img  src="https://Yogita2021.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
   <br>
    ## 👨🏻‍💻 About Me:
-<!-- <img  src="https://yogitamane.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" /> -->
 
 - 🙋‍♂️ All about me is at **[Portfolio](https://yogita2021.github.io/)**
 
@@ -24,14 +23,14 @@
 - 📫 How to reach me **maneyogita2021@gmail.com**
 
 <br>
-<!-- <h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2> -->
+
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,express,mongodb,nodejs" />
   </a>
 </p>
-<!-- <img src="" alt="" /> -->
+
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a >
@@ -54,7 +53,7 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogita2021&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Yogita2021&theme=rogue" alt="activitygraph" /> </p> -->
+
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogita2021&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yogita2021&no-frame=true" alt=""/></p>
